@@ -3,7 +3,7 @@
 BSc in Electrical Engineering and Information Technologies 💻
 
 - ⚡ Pronounce the J in my surname as Y in yellow 🟡
-- 🛠 I’m currently working on my portfolio
+- 🛠 I’m currently working on my portfolio. Clikc [here](https://github.com/josifovskid/Portfolio-Summary/blob/main/README.md) to see what I have done so far.
 - 🌱 I’m currently refreshing my knowledge, and learning new things about data
 - 🔭 I’m looking for an internship / a job in the world of data
 - 💬 Ask me about my secret passion: quantum science & quantum technology ⚛
