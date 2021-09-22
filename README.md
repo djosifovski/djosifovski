@@ -24,7 +24,9 @@ BSc in Electrical Engineering and Information Technologies 💻
 
 ### Languages and Tools
 
-<img alt="Python" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" /> <img alt="MATLAB" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" /> <img alt="C" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" /> <img alt="C++" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" /> <img alt="Jupyter" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" /> <img alt="Visual Studio Code" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" /> <img alt="Git" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" /> <img alt="GitHub" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+<!-- Logos downloaded from: https://github.com/devicons/devicon/tree/master/icons -->
+
+<img alt="Python" width="40px" src="images/python-original.svg" /> <img alt="MATLAB" width="40px" src="images/matlab-original.svg" /> <img alt="C" width="40px" src="images/c-line.svg" /> <img alt="C++" width="40px" src="images/cplusplus-original.svg" /> <img alt="Jupyter" width="40px" src="images/jupyter-original-wordmark.svg" /> <img alt="Visual Studio Code" width="40px" src="images/vscode-original.svg" /> <img alt="Git" width="40px" src="images/git-original.svg" /> <img alt="GitHub" width="40px" src="images/github-original.svg" />
 <br/>
 
 - LaTeX
